@@ -1,4 +1,0 @@
-interface:
-  display_name: "英文原版阅读与输出"
-  short_description: "用费曼讲述、原文核对和回译完成英文原版书学习闭环"
-  default_prompt: "使用 $feynman 继续我的英文原版书阅读与输出练习。"
