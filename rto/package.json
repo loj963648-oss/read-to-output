@@ -1,0 +1,11 @@
+{
+  "name": "read-to-output-pi-prototype",
+  "version": "0.10.6-beta.2",
+  "private": true,
+  "type": "module",
+  "description": "Phase-aware vertical learning agent prototype for Pi",
+  "scripts": {
+    "check": "node scripts/check-state.mjs",
+    "test": "node --test tests/*.test.mjs"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "mode": "phase-5-real-storage",
+  "writeMode": "real",
+  "vaultRoot": "C:/path/to/your/Obsidian Vault",
+  "progressFile": "学习进度.md",
+  "runtime": {
+    "thinkingLevel": "off",
+    "lockModelTools": true
+  },
+  "books": []
+}

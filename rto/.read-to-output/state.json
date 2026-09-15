@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-13T11:41:36.578Z",
+  "sourceSnapshot": null,
+  "lastBookId": null,
+  "cadence": {
+    "normalReadingCount": 0,
+    "nextSession": "ordinary",
+    "newBacktranslationWords": "25–40",
+    "backtranslationMode": "light"
+  },
+  "books": {}
+}
